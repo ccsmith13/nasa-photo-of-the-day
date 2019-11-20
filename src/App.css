@@ -31,3 +31,27 @@
     transform: rotate(360deg);
   }
 }
+
+.logo-container {
+  display: block;
+  align-content: center;
+  padding-bottom: 5%;
+}
+.logo {
+  width: 25%;
+  height: 25%;
+}
+
+.spaceImage-list {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  margin-bottom: 10%;
+  padding-top: 5%;
+}
+
+.explanation-paragraph {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10%;
+}
